@@ -7,10 +7,20 @@ public class Scene : MonoBehaviour
     {
         SceneManager.LoadScene("ReadyToProvideAService");
     }
+    public void OpenSampleScene()
+    {
+        SceneManager.LoadScene("SampleScene");
+    }
 
     public void OpenFoundWork()
     {
         SceneManager.LoadScene("FoundSpeal");
     }
 
+    public void OpenQuestionnaire()
+    {
+        SceneManager.LoadScene("Questionnaire"); 
+    }
+    
+    
 }

@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FoundSpeal.unity
     guid: 1e4095b10a6ad07438993c4b22f8e9db
+  - enabled: 1
+    path: Assets/Scenes/AnketaPublished.unity
+    guid: ebbc2de7b544727468bce001eb6f8506
+  - enabled: 1
+    path: Assets/Scenes/Questionnaire.unity
+    guid: cd58079f94b4f6a4d8cf79a02f3e7bec
   m_configObjects: {}

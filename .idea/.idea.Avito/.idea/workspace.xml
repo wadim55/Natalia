@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a69594-78c0-4358-97ad-a5e384ccc480" name="Default Changelist" comment="" />
+    <list default="true" id="02a69594-78c0-4358-97ad-a5e384ccc480" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Avito/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Avito/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Avito/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Avito/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Avito/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Avito/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FoundSpeal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FoundSpeal.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ReadyToProvideAService.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ReadyToProvideAService.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Scene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Scene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprite/Пройдите анкету.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprite/Пройдите анкету.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SystemAnket.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Script/FoundSpaeal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Systemanket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SystemAnket.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Scene.cs" />
       </list>
     </option>
@@ -58,7 +95,9 @@
       <workItem from="1697293294555" duration="72000" />
       <workItem from="1697293379825" duration="9000" />
       <workItem from="1697293465005" duration="67000" />
-      <workItem from="1697293583798" duration="619000" />
+      <workItem from="1697293583798" duration="887000" />
+      <workItem from="1697375384500" duration="1273000" />
+      <workItem from="1697377888423" duration="2785000" />
     </task>
     <servers />
   </component>
@@ -67,6 +106,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
